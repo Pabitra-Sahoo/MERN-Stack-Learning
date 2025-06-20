@@ -24,7 +24,7 @@ My aim is to document my process, solidify concepts through practice, and eventu
 
 I’m primarily learning from the incredible:
 
-### [💻 Love Babbar’s Free MERN Stack Web Development Course](https://www.youtube.com/playlist?list=PLDzeHZWIZsTp8L9a1NlY6d-bGLzNn0z02)
+### [💻 Love Babbar’s Free MERN Stack Web Development Course](https://www.youtube.com/watch?v=Vi9bxu-M-ag&list=PLDzeHZWIZsTo0wSBcg4-NMIbC0L8evLrD)
 
 > A huge thank you to **Love Babbar Sir** for offering such a valuable, comprehensive, and free resource! 🙏
 
